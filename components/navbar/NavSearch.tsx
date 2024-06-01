@@ -4,7 +4,7 @@ const NavSearch = () => {
   return (
     <Input 
       type="text"
-      placeholder="find you next property..."
+      placeholder="find your next property"
       className="max-w-xs dark:bg-muted"
     />
   )
